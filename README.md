@@ -1,4 +1,4 @@
-Редактор тексту "ALEX EDITOR REACT". Розроблено Oleksandr Budnikov
+Редактор тексту "ALEX EDITOR REACT". Розроблено Oleksandr Budnikov.
 
 Застосовано: react-bootstrap, "@tinymce/tinymce-react": "^4.2.0",  { useRef } from 'react';
 

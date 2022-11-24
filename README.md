@@ -7,7 +7,6 @@
 
 РЕДАКТОР ЗАДЕПЛОЄНО: (робоча версія)     https://alex-editor-react.herokuapp.com/
 
-              АБО ще  (робоча версія)       https://alex-editor-react.vercel.app/ 
               
               
 

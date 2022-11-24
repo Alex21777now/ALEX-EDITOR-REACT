@@ -6,6 +6,7 @@
 Весь обширний функціонал мого редактору легко доступний через Пункти Меню редактору. Зручний і легкий у роботі.
 
 РЕДАКТОР ЗАДЕПЛОЄНО: (робоча версія)     https://alex-editor-react.herokuapp.com/
+                     АБО ще  (робоча версія)       https://alex-editor-react.vercel.app/      
 
 Мій репозиторій ТА КОД РЕДАКТОРУ:       https://github.com/Alex21777now/ALEX-EDITOR-REACT
 
